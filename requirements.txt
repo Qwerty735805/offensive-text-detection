@@ -33,5 +33,5 @@ wincertstore==0.2
 zipp 
 gunicorn>=19.9.0
 Jinja2==3.0
-MarkupSafe==1.1.1
+MarkupSafe==2.0.0
 imutils==0.5.3
